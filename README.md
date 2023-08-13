@@ -1,5 +1,5 @@
 
-A drum kit is a collection of drums, cymbals, and sometimes other auxiliary percussion instruments set up to be played by one person. I created a drum kit using HTML, CSS & JavaScript.
+A drum kit is a collection of drums, cymbals, and sometimes other auxiliary percussion instruments set up to be played by one person. I created a it using HTML, CSS & JavaScript.
 
 
 The HTML code creates a set of buttons, each of which has an associated audio element and image. The audio elements are loaded with sound files of different drum sounds. The images are used to represent the different drums on the kit.
